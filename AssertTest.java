@@ -1,4 +1,4 @@
-package de.uni_hamburg.informatik.swt.se2.kino.startup;
+
 
 import static org.junit.Assert.fail;
 
