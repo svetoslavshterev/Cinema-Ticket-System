@@ -1,1 +1,1 @@
-# Cinema-Tiket-System
+# Cinema-Ticket-System
