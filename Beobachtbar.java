@@ -1,4 +1,4 @@
-package de.uni_hamburg.informatik.swt.se2.kino.beobachtermuster;
+
 
 import java.util.HashSet;
 import java.util.Set;
